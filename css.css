@@ -1,0 +1,51 @@
+@font-face {
+    font-family: "DancingScript";
+    src: url("./font/DancingScript-Regular.woff2") format("woff2");
+
+    font-family: "SansitaSwashed";
+    src: url("./font/SansitaSwashed-Regular.woff2") format("woff2");
+}
+
+h2{
+    font-family: "DancingScript";
+}
+p{
+    font-family: "SansitaSwashed";
+}
+
+#head{
+    text-align: center;
+    font-size: 7em;
+}
+#centerrow1{
+    margin: 0 auto;
+    width: 40%;
+}
+#centerrow2{
+    margin: 0 auto;
+    width: 75%;
+}
+.center{
+    margin: 0 auto;
+    width: 50%;
+}
+.container{
+    margin: 100px 0px;
+}
+.container p{
+    text-align: center;
+    font-size: 5em;
+}
+
+
+.line{
+    display: inline-block;
+}
+.img2ecol{
+    width: 49%;
+}
+
+.img3ecol{
+    width: 33%;
+}
+
